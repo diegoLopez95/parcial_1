@@ -1,0 +1,17 @@
+<div *ngIf="player">
+
+    <h2>{{player.name | uppercase}} {{player.surname | uppercase}} </h2>
+    <div><span>id: </span>{{player.id}}</div>
+    <div><span>Posición: </span>{{player.position}}</div>
+    <div><span>Altura: </span>{{player.height}}</div>
+    <div><span>Peso: </span>{{player.weight}}</div>
+    <div><span>Club: </span>{{player.club}}</div>
+    <div><span>Número de camiseta: </span>{{player.number}}</div>
+    <img class="card-img-top" src={{player.image}} alt="..." />
+    <!--<div>
+        <label for="hero-name">Hero name: </label>
+        <input id="hero-name" [(ngModel)]="player.name" placeholder="name">
+    </div>
+    <button type="button" (click)="save()">save</button>-->
+    <button type="button" (click)="goBack()">go back</button>
+</div>

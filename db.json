@@ -1,0 +1,257 @@
+{
+  "players": [
+    {
+      "id": 2,
+      "name": "Ronald",
+      "surname": "Araujo",
+      "position": "Defensa",
+      "image": "./assets/azul.jpeg",
+      "height": "1.92mts",
+      "weight": "93kg",
+      "number": "2",
+      "club": "Barcelona"
+    },
+    {
+      "id": 3,
+      "name": "Federico",
+      "surname": "Valverde",
+      "position": "Mediocampo",
+      "image": "./assets/rojo.jpeg",
+      "height": "1.87mts",
+      "weight": "85kg",
+      "number": "15",
+      "club": "Real Madrid"
+    },
+    {
+      "id": 4,
+      "name": "Darwin",
+      "surname": "Núñez",
+      "position": "Delantero",
+      "image": "./assets/amarillo_1.jpg",
+      "height": "1.91mts",
+      "weight": "89kg",
+      "number": "9",
+      "club": "Liverpool"
+    },
+    {
+      "name": "Manuel",
+      "surname": "Ugarte",
+      "position": "Mediocampo",
+      "image": "./assets/azul_1.jpeg",
+      "height": "1,85mts",
+      "weight": "82kg",
+      "number": "5",
+      "club": "PSG",
+      "id": 5
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 6
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 7
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 8
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 9
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 10
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 11
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 12
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 13
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 14
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 15
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 16
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 17
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 18
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 19
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 20
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 21
+    },
+    {
+      "name": "Nicolas",
+      "surname": "De la Cruz",
+      "position": "Mediocampo",
+      "image": "./assets/rojo_1.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 22
+    },
+    {
+      "name": "Mathias",
+      "surname": "Olivera",
+      "position": "Defensa",
+      "image": "./assets/azul_3.jpeg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 23
+    },
+    {
+      "name": "Sergio",
+      "surname": "Rochet",
+      "position": "Arquero",
+      "image": "./assets/amarillo.jpg",
+      "height": "",
+      "weight": "",
+      "number": "",
+      "club": "",
+      "id": 24
+    }
+  ]
+}

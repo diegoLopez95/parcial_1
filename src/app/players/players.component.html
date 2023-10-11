@@ -1,0 +1,43 @@
+<h2>Jugadores de la Selección Uruguaya de Fútbol</h2>
+
+<div class="success" *ngIf="players.length === 23">
+    <p>¡Usted ya tiene 23 jugadores convocados!</p>
+</div>
+
+<ul class="players">
+  <li *ngFor="let player of players">
+    <a routerLink="/detail/{{player.id}}">
+      <span class="badge">{{player.id}}</span> 
+        {{player.name}} {{player.surname}}
+    </a>
+    <img class="card-img-top" src={{player.image}} alt="..." />
+    <button type="button" class="delete" title="eliminar jugador"
+    (click)="delete(player)">x</button>
+  </li>
+</ul>
+
+<div>
+  <label for="new-player">Nombre del jugador: </label>
+  <input id="new-player" #playerName />
+  <label for="new-player">Apellido del jugador: </label>
+  <input id="new-player" #playerSurname />
+  <label for="new-player">Posición del jugador: </label>
+  <input id="new-player" #playerPosition />
+  <label for="new-player">Foto del jugador: </label>
+  <input id="new-player" #playerImage />
+  <label for="new-player">Altura del jugador: </label>
+  <input id="new-player" #playerheight />
+  <label for="new-player">Peso del jugador: </label>
+  <input id="new-player" #playerWeight />
+  <label for="new-player">Número del jugador: </label>
+  <input id="new-player" #playerNumber />
+  <label for="new-player">Club del jugador: </label>
+  <input id="new-player" #playerClub />
+
+  <!-- (click) passes input value to add() and then clears the input -->
+  <button type="button" class="add-button" [disabled]="!!playerName.value && !!playerSurname.value" (click)="add(playerName.value,playerSurname.value,
+        playerPosition.value, playerImage.value, playerheight.value, playerWeight.value, playerNumber.value, playerClub.value); playerName.value=''; playerSurname.value='';
+        playerPosition.value=''; playerImage.value=''; playerheight.value=''; playerWeight.value=''; playerNumber.value=''; playerClub.value='';" >
+    Agregar jugador
+  </button>
+</div>
